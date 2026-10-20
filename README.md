@@ -1,22 +1,21 @@
-# 👨‍💻 Hi, saya Chang Heng Wei!
+# Chang Heng Wei's Profile
 <img width="300" height="400" alt="SELF PHOTO (1)" src="https://github.com/user-attachments/assets/fd292d74-6dd1-4bf9-a610-63df652a14fa" />
 <br><br>
-Selamat datang ke profil GitHub saya! Saya baru memulakan perjalanan saya dalam dunia pengaturcaraan dan pembangunan perisian.
 
 ---
 
-### 🚀 Mengenai Saya
-- 🔭 **Saya sedang belajar:** Basic Programming / Web Development / GitHub
-- 🌱 **Sasaran saya:** Membina projek-projek menarik dan menguasai kemahiran baharu
-- 📫 **Cara hubungi saya:** changhengwei@graduate.utm.my
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/chang-heng-wei-181b88375/
+### About Me
+-  **Major:** Bachelor of Computer Science (Data Engineering) with Honours 
+-  **University:** University of Technology Malaysia
+-  **Email:** changhengwei@graduate.utm.my
+-  **LinkedIn:** https://www.linkedin.com/in/chang-heng-wei-181b88375/
 
 ---
 
-### 🛠️ Alat & Bahasa yang Saya Pelajari
-- **Bahasa:** Python
-- **Alat (Tools):** Git, GitHub, VS Code
+### My Skills
+- **Programming Language:** Python, SQL
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
-⚡ *Petua berguna: Jangan takut untuk buat silap semasa belajar, itu sebahagian daripada proses!*
+⚡ *The magic you are looking for is in the work you are avoiding.*
