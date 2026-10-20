@@ -5,16 +5,21 @@
 ---
 
 ### About Me
--  **Major:** Bachelor of Computer Science (Data Engineering) with Honours 
--  **University:** University of Technology Malaysia
--  **Email:** changhengwei@graduate.utm.my
--  **LinkedIn:** https://www.linkedin.com/in/chang-heng-wei-181b88375/
+
+| **Major** | Bachelor of Computer Science (Data Engineering) with Honours |
+| :--- | :--- |
+| **University** | University of Technology Malaysia |
+| **Email** | changhengwei@graduate.utm.my |
+| **LinkedIn** | [https://www.linkedin.com/in/...](https://linkedin.com) |
+
 
 ---
 
 ### My Skills
-- **Programming Language:** Python, SQL
-- **Tools:** Git, GitHub, VS Code
+
+| **Programming <br> Language** | Python, SQL |
+| :--- | :--- |
+| **Tools** | Git, Github, VS Code |
 
 ---
 
