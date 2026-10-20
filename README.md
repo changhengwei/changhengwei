@@ -8,8 +8,8 @@ Selamat datang ke profil GitHub saya! Saya baru sahaja memulakan perjalanan saya
 - 🔭 **Saya sedang belajar:** Basic Programming / Web Development / GitHub
 - 🌱 **Sasaran saya:** Membina projek-projek menarik dan menguasai kemahiran baharu
 - 💬 **Tanya saya tentang:** Perkara asas yang baru saya pelajari
-- 📫 **Cara hubungi saya:** [Alamat E-mel Anda]
-- 🔗 **LinkedIn:** [Pautan LinkedIn Anda] *(jika ada)*
+- 📫 **Cara hubungi saya:** changhengwei@graduate.utm.my
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/chang-heng-wei-181b88375/
 
 ---
 
