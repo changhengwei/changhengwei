@@ -1,7 +1,7 @@
 # 👨‍💻 Hi, saya Chang Heng Wei!
 <img width="300" height="400" alt="SELF PHOTO (1)" src="https://github.com/user-attachments/assets/fd292d74-6dd1-4bf9-a610-63df652a14fa" />
 <br><br>
-Selamat datang ke profil GitHub saya! Saya baru sahaja memulakan perjalanan saya dalam dunia pengaturcaraan dan pembangunan perisian.
+Selamat datang ke profil GitHub saya! Saya baru memulakan perjalanan saya dalam dunia pengaturcaraan dan pembangunan perisian.
 
 ---
 
