@@ -19,8 +19,8 @@
 ### About me
 
 *  **Major:** Bachelor of Computer Science (Data Engineering) with Honours
-*  **University:** University of Technology Malaysia
-*  **Year of Study:** Year 1
+*  **University:** University of Technology Malaysia (UTM)
+*  **Year of Study:** 1
 
 ---
 
