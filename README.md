@@ -20,7 +20,7 @@
 
 *  **Major:** Bachelor of Computer Science (Data Engineering) with Honours
 *  **University:** University of Technology Malaysia
-*  **Year:** Year 1
+*  **Year of Study:** Year 1
 
 ---
 
